@@ -1,0 +1,9 @@
+node_modules/
+.prettierrc
+.prettierignore
+.vscode/
+dist/
+.env
+*.log
+.env.*
+package-lock.json
